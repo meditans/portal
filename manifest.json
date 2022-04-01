@@ -1,0 +1,1 @@
+{"short_name":"Portal","name":"portal","description":"A clojure tool to navigate through your data.","icons":[{"type":"image/svg+xml","sizes":"512x512","src":"icon.svg"}],"scope":"https://djblue.github.io/portal/","start_url":"https://djblue.github.io/portal/","display":"standalone","display_override":["minimal-ui"]}
